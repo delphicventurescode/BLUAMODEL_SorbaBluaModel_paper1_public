@@ -1,7 +1,7 @@
-## The SorbaBlua Model
+## The SorbaBlua Swan Model
 ---
 
-# The "Flava Beans" Model of Network Dyeing: Formalizing State-Dependent Feedback, Memory Loops, and Path-Dependent Satiation in Complex Infrastructure
+# The "Blua Swan" Model of Network Dyeing: Formalizing State-Dependent Feedback, Memory Loops, and Path-Dependent Satiation in Complex Infrastructure
 
 **Author Category:** Research Article
 
@@ -15,7 +15,7 @@
 
 While Flava Model 1 (The Local Flava Swan) formalizes the *event horizon*—how heavy-tailed workloads ($G$) interact with rigid capacity choke points ($C$) to trigger non-linear system backlogs—this paper introduces **The Flava Beans Model (Flava Model 2)** to formalize the *structural aftermath*. Traditional stochastic models, such as standard Markov chains, operate under a memoryless or static transition assumption where system components resume their baseline parameters once an external shock recedes.
 
-The Flava Beans model, also known as the Sorba Blua Model, rejects this paradigm, proving that the individual components of a system (the "beans") are structurally altered by the nature of the extreme workloads trapped alongside them during periods of prolonged bottleneck saturation. We mathematically formalize this mechanism by introducing a dynamic, accumulating **Flavor Parameter ($\mathbf{\Phi}$)** into the system's underlying transition matrix, creating a state-dependent feedback loop.
+The Flava Beans model, also known as the Blua Swan Model, and the Sorba Blua Swan Model, rejects this paradigm, proving that the individual components of a system (the "beans") are structurally altered by the nature of the extreme workloads trapped alongside them during periods of prolonged bottleneck saturation. We mathematically formalize this mechanism by introducing a dynamic, accumulating **Flavor Parameter ($\mathbf{\Phi}$)** into the system's underlying transition matrix, creating a state-dependent feedback loop.
 
 Through three targeted case studies—The Ashokan Edicts of Dhamma, The Gandhian Cultural Transformation of the Political Elite, and the Institutional Path-Dependency of the Post-1947 Nehruvian Bureaucracy—we validate how infrastructure components absorb external shock attributes, transforming fleeting systemic crises into permanent structural path-dependencies. Finally, we establish actionable design metrics for contemporary organizational architects seeking to manage long-term institutional drift and legacy formation.
 
