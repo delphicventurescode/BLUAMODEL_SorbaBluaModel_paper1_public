@@ -1,4 +1,4 @@
-
+## The SorbaBlua Model
 ---
 
 # The "Flava Beans" Model of Network Dyeing: Formalizing State-Dependent Feedback, Memory Loops, and Path-Dependent Satiation in Complex Infrastructure
